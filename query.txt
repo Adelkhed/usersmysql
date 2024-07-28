@@ -1,0 +1,12 @@
+-- INSERT INTO users (first_name, last_name, email) VALUES ("adel","khedhiri","khedhiri.adel@gmail.com"), ("afef", "khedhiri","khedhiri.afef@gmail.com"), ("foued", "khedhiri","khedhiri.foued@gmail.com");
+
+-- SELECT * FROM users WHERE email ="khedhiri.adel@gmail.com";
+
+-- SELECT * FROM users WHERE id =4;
+-- UPDATE users SET last_name = "Pancakes" WHERE id =3;
+
+-- DELETE FROM users WHERE id = 3;
+-- SELECT * FROM users ORDER BY first_name DESC;
+-- SELECT * FROM users ORDER BY last_name ASC;
+
+SELECT * FROM users;
